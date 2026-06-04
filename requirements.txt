@@ -1,0 +1,43 @@
+# Core Data Processing
+
+numpy
+pandas
+
+# Machine Learning
+
+scikit-learn
+joblib
+
+# Deep Learning
+
+tensorflow
+
+# Computer Vision
+
+opencv-python
+Pillow
+
+# YOLO Object Detection
+
+ultralytics
+
+# Dashboard
+
+streamlit
+plotly
+
+# Database
+
+sqlalchemy
+
+# PLC / Industrial Communication
+
+pyModbusTCP
+pymodbus
+
+# Utilities
+
+matplotlib
+seaborn
+python-dotenv
+requests
